@@ -1,0 +1,8 @@
+name = "TravelingSalesman"
+uuid = "36879e9c-3f1c-42db-90cb-88b37b3bf602"
+authors = ["Matyxus <maty.svadlenka@seznam.cz>"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
