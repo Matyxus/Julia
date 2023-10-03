@@ -1,0 +1,13 @@
+{
+  "total": {
+    "iterations": 101,
+    "distance": 47.163998,
+    "best": "h-e-d-g-b-a-c-f-h"
+  },
+  "info": {
+    "algorithm": "GeneticAlgorithm",
+    "run_time": 0.217,
+    "input_file": "ga"
+  },
+  "log_entries": null
+}
