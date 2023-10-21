@@ -1,0 +1,13 @@
+name = "TSP"
+uuid = "1e174bb1-8ae1-4cb4-928e-9629d2323b80"
+authors = ["svadlmat", "povolji2"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+
+[compat]
+julia = "1.7"
