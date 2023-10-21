@@ -21,6 +21,4 @@ function polynomial(a, x)
 end
 
 # a = [-19, 7, -4, 6]
-# x = 3
-# display(polynomial(a, x))
-# display(circlemat(3))
+
