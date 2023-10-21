@@ -1,0 +1,13 @@
+name = "TSP_Algorithms"
+uuid = "1951674f-b584-4c51-9d3c-8bbc975d63ad"
+authors = ["svaldmat", "povolji2"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
+[compat]
+julia = "1.6.1"
